@@ -1,0 +1,66 @@
+_________________________________
+
+MODIFICACIONES Kodi v20.1 Dark MOD v1.0 @McKlaus_Appss
+
+🔘 FORK MOD by @McKlaus
+🔘 Modo Oscuro (Dark)
+🔘 Versión compatible con Elementum y Android +10
+🔘 Modificada ruta de instalación
+🔘 No Actualizable
+🔘 Puede coexistir con otras versiones de Kodi
+🔘 Añadido mensaje toast al inicio
+🔘 Añadido popup con enlace al canal de aplicaciones MOD
+🔘 Añadido Changelog con las modificaciones del Fork
+🔘 Posibilidad de instalar el Wizard Kodispain en el primer arranque
+🔘 Modificadas las Fuentes, Tamaños, Imágenes, Mensajes, Colores y Patrón de Fondo del Fork
+🔘 Activado y Actualizado el Idioma Español (ES)
+🔘 Traducidos al Castellano los mensajes de la Aplicación
+🔘 Configurada la Hora al formato 24 Horas
+🔘 Activada instalación de fuentes desconocidas y Notificación de actualización de addons
+🔘 Habilitados permisos de control remoto para aplicaciones del dispositivo
+🔘 Añadida opción Autoactualizar repositorios/addons oficiales + no oficiales
+🔘 Añadido Playercorefactory.xml MOD by @McKlaus para poder usar reproductores externos
+🔘 Actualizadas todas las Dependencias y Addons preinstalados
+🔘 Eliminados Addons y Permisos innecesarios
+🔘 Inhabilitados los Sonidos de serie
+
+ADDONS INSTALADOS:
+
+🔘 Añadido el Addon KodispainTV
+🔘 Añadido el Addon KodispainWizard
+🔘 Añadido el Addon Tacones
+🔘 Añadido el Addon Duff You
+🔘 Añadido el Addon Moe's TV
+🔘 Añadido el Addon Vavoo.to
+🔘 Añadido y Configurado el Addon Autocompletar (Solo para Estuary)
+🔘 Añadido Addon de Mantenimiento "EZ Limpiador" Configurado y Parcialmente Traducido (limpia en cada inicio)
+🔘 Añadidos y Configurados F4mProxy y f4mTester
+🔘 Añadido el Addon Astro (Sustituye a SuperFavoritos)
+🔘 Añadido el Addon Kelebek
+🔘 Añadido el Addon Luar
+🔘 Desinstalado el Addon Versión Check
+
+REPOSITORIOS INSTALADOS:
+
+🔘 Añadido el Repositorio del Addon KodispainTV
+🔘 Añadido el Repositorio del Addon Tacones
+🔘 Añadido el Repositorio del Addon Alfa
+🔘 Añadido el Repositorio del Addon Balandro
+🔘 Añadido el Repositorio del Addon Magellan
+🔘 Añadido el Repositorio Viking (F4m)
+🔘 Añadido el Repositorio CastagnaIT (Netflix)
+🔘 Añadido el Repositorio Michaz (Vavoo.to)
+🔘 Añadido el Repositorio Peno64 (Ez Limpiador)
+🔘 Añadido el Repositorio SlyGuy (Plataformas de Pago)
+🔘 Añadido el Repositorio Zach Morris (Emuladores Juegos)
+🔘 Añadido el Repositorio STVA
+
+🔘 Ocupa 76 mb menos que la v18.9 v3.3
+🔘 Ocupa 48 mb menos que la v19.4 v2.0
+
+CANAL DE ENLACE: @McKlaus_Appss
+
+
+⚠️ Dejad cargar Kodi en el primer inicio
+
+__________________________________
